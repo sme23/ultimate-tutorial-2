@@ -2,6 +2,7 @@
 
 Here are a few resources to get started with eventing:
 
+- [Sme's "EA Eventing Guide"](https://feuniverse.us/t/fe8-ea-eventing-guide/7080) (FE8)
 - [Arch's "Eventing for Dummies"](http://feuniverse.us/t/eventing-for-dummies/109) (FE7)
 - [Zim's (unfinished?) "grand eventing wiki/chapter construction guide"](http://feuniverse.us/t/fe8-the-grand-eventing-wiki-chapter-construction-guide-wip/1594) (FE8)
 - [Blazer's "Ultimate Tutorial"](https://www.dropbox.com/sh/zymc1h221nnxpm9/AACZicftK6SbxlndbmYXCpiua/ToolBox?dl=0&preview=Ultimate+Tutorial.pdf) (FE7) (starting on page 142)
