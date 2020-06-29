@@ -188,3 +188,8 @@ POP
 ```
 Notice item icons aren't lz77 compressed.
 If necessary, don't forget to change the icon for the item in the Item Table.
+
+
+### Tilesets
+
+[In-depth tutorial by DerTheVaporeon](https://feuniverse.us/t/fe8-tileset-insertion-editing-tutorial-derthevaporeon-2018/4102)
